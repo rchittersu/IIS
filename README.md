@@ -4,7 +4,7 @@
 
 Raghu Vamsi Chittersu, Yuvraj Singh Rathore, Pranav Adlinge, Eswar Sai Pashaula, Kunal Swami
 
-[Paper](https://arxiv.org/abs/2511.15197) · [ACM DL](https://doi.org/10.1145/3767308.3836447) · [Project page](https://USERNAME.github.io/InsertInStyle) · [Checkpoint](<CHECKPOINT LINK TBD>)
+[Paper](https://arxiv.org/abs/2511.15197) · [ACM DL](https://doi.org/10.1145/3767308.3836447) · [Project page](https://rchittersu.github.io/IIS/) · Checkpoint (coming soon)
 
 Given a reference object, a stylized scene and a mask, *Insert In Style* generates the object in the scene's style while keeping its identity, with no per-subject finetuning.
 
@@ -29,7 +29,7 @@ pip install -r inference/requirements.txt
 ```
 
 1. Download the base models into one folder (`MODELS_ROOT`): [FLUX.1-dev](https://huggingface.co/black-forest-labs/FLUX.1-dev), and for evaluation `clip-vit-large-patch14`, `dinov2-large`, `CSD-ViT-L` and the LAION aesthetic predictor (`aes-predictor/`). For data generation, also FLUX.1-Kontext-dev.
-2. Download the checkpoint from [Google Drive](<CHECKPOINT LINK TBD>) into `inference/checkpoints/`. It contains `subject.safetensors`, `token_integration.safetensors` and `instyle.safetensors` (332 MB).
+2. Download the checkpoint (Google Drive link coming soon) into `inference/checkpoints/`. It contains `subject.safetensors`, `token_integration.safetensors` and `instyle.safetensors` (332 MB).
 3. Set your local paths in `configs/paths.env` and apply them:
    ```bash
    python tools/set_paths.py           # fill the path placeholders in the scripts

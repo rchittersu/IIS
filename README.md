@@ -4,7 +4,7 @@
 
 Raghu Vamsi Chittersu, Yuvraj Singh Rathore, Pranav Adlinge, Eswar Sai Pashaula, Kunal Swami
 
-[Paper](https://arxiv.org/abs/2511.15197) · [ACM DL](https://doi.org/10.1145/3767308.3836447) · [Project page](https://rchittersu.github.io/IIS/) · Checkpoint (coming soon)
+[Paper](https://arxiv.org/abs/2511.15197) · [Project page](https://rchittersu.github.io/IIS/) · Checkpoint (coming soon)
 
 Given a reference object, a stylized scene and a mask, *Insert In Style* generates the object in the scene's style while keeping its identity, with no per-subject finetuning.
 
@@ -69,8 +69,7 @@ See `data_generation/README.md` for details.
   author    = {Chittersu, Raghu Vamsi and Rathore, Yuvraj Singh and
                Adlinge, Pranav and Pashaula, Eswar Sai and Swami, Kunal},
   booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
-  year      = {2026},
-  doi       = {10.1145/3767308.3836447}
+  year      = {2026}
 }
 ```
 

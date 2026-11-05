@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.paths_applied.json
+inference/runs/
+inference/checkpoints/
+inference/generations/
+eval/scores/
+out/
+wandb/
+.DS_Store

@@ -1,0 +1,13 @@
+torch
+torchvision
+diffusers==0.31.0
+transformers
+peft
+accelerate
+safetensors
+sentencepiece
+protobuf
+opencv-python
+pillow
+tqdm
+pyyaml

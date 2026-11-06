@@ -1,6 +1,6 @@
 # Insert In Style
 
-**A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition** (ACM Multimedia 2026)
+**A Zero-Shot Generative Framework for Harmonious Cross-Domain Object Composition** (ACM Multimedia 2026, Oral)
 
 Raghu Vamsi Chittersu, Yuvraj Singh Rathore, Pranav Adlinge, Eswar Sai Pashaula, Kunal Swami
 
